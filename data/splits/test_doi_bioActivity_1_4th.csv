@@ -1,0 +1,34 @@
+node,neighbor,type
+10.1080/14786410412331271979,Cytotoxic,doi_bioActivity
+10.1021/np030530j,Antifungal,doi_bioActivity
+10.1590/S0100-46702007000300002,Antifungal,doi_bioActivity
+10.1016/S0031-9422(00)00477-5,Antioxidant,doi_bioActivity
+10.1590/S0103-50532005000800026,Inhibition of Acetylcholinesterase,doi_bioActivity
+10.1016/j.tiv.2008.01.003,Cytotoxic,doi_bioActivity
+10.1016/S0031-9422(98)00249-0,Cytotoxic,doi_bioActivity
+10.1016/j.tiv.2008.01.003,Anticancer,doi_bioActivity
+10.1590/S0102-695X2008000200010,Antibacterial,doi_bioActivity
+10.1590/S0103-50532009000400008,Antileishmanial,doi_bioActivity
+10.1590/S0100-40422008000400023,Antifungal,doi_bioActivity
+10.1515/znb-2005-0715,Antifungal,doi_bioActivity
+10.1248/cpb.56.723,Inhibition of Myeloperoxodase,doi_bioActivity
+10.1590/S1519-566X2008000600013,Insecticidal,doi_bioActivity
+10.1016/S0031-9422(01)00079-6,Cytotoxic,doi_bioActivity
+10.1590/S0103-50532009000400008,Antimalarial,doi_bioActivity
+10.1002/ps.478,Insecticidal,doi_bioActivity
+10.1248/cpb.56.723,Antioxidant,doi_bioActivity
+10.1590/S0100-40422004000200005,Cytotoxic,doi_bioActivity
+10.1016/S0031-9422(01)00079-6,Antifungal,doi_bioActivity
+10.1021/np900644x,Inhibition of Acetylcholinesterase,doi_bioActivity
+10.1590/S0103-50532005000400005,Antioxidant,doi_bioActivity
+10.1016/j.phytochem.2006.06.004,Antifungal,doi_bioActivity
+10.2174/187152010794728620,Cell growth inhbition,doi_bioActivity
+10.1021/np9004079,Cytotoxic,doi_bioActivity
+10.1016/j.cbi.2010.08.008,Cytotoxic,doi_bioActivity
+10.1021/np060254j,Anxiolytic,doi_bioActivity
+10.1016/j.jfca.2003.09.013,Antioxidant,doi_bioActivity
+10.1590/S0100-40422005000400009,Antifungal,doi_bioActivity
+10.1016/S0031-9422(00)00248-X,Antitrypanosomal,doi_bioActivity
+10.3390/molecules15129205,Inhibition of Acetylcholinesterase,doi_bioActivity
+10.1590/S0103-50532009000400008,Antitrypanosomal,doi_bioActivity
+10.1021/jf100233y,Antioxidant,doi_bioActivity

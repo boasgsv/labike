@@ -1,0 +1,102 @@
+node,neighbor,type
+10.1016/S0031-9422(00)00323-X,Antifungal,doi_bioActivity
+10.1590/S0100-46702007000300002,Antifungal,doi_bioActivity
+10.1590/S0103-50532009000400008,Antileishmanial,doi_bioActivity
+10.1515/znc-2011-5-607,Insecticidal,doi_bioActivity
+10.1016/S0031-9422(00)00225-9,Antibacterial,doi_bioActivity
+10.1590/S0102-695X2010005000017,Antiangiogenic,doi_bioActivity
+10.1590/S0103-50532003000300007,Antitrypanosomal,doi_bioActivity
+10.1016/j.phytochem.2008.01.006,Antifungal,doi_bioActivity
+10.1007/s10295-012-1165-2,Cytotoxic,doi_bioActivity
+10.1016/S0031-9422(00)00225-9,Antifungal,doi_bioActivity
+10.1016/0031-9422(90)80024-B,Molluscicidal,doi_bioActivity
+10.1080/14786410600907002,Anticancer,doi_bioActivity
+10.1002/hlca.200890147,Antifungal,doi_bioActivity
+10.1590/S0103-50532002000100019,Insecticidal,doi_bioActivity
+10.1016/j.jep.2007.09.020,Antileishmanial,doi_bioActivity
+10.1021/jf063451x,Anti-inflamatory,doi_bioActivity
+10.1016/j.jfca.2003.09.013,Inhibition of Glycosidase,doi_bioActivity
+10.1016/0031-9422(81)80027-1,Anesthetic,doi_bioActivity
+10.1021/np900644x,Inhibition of Acetylcholinesterase,doi_bioActivity
+10.1590/S0103-50532002000100010,Antitrypanosomal,doi_bioActivity
+10.1016/S0031-9422(97)00238-0,Antifungal,doi_bioActivity
+10.1016/S0031-9422(97)00598-0,Antitrypanosomal,doi_bioActivity
+10.1021/np800612x,Antiangiogenic,doi_bioActivity
+10.1016/S0031-9422(01)00079-6,Antifungal,doi_bioActivity
+10.1016/j.jphotobiol.2013.01.006,Inhibition of uncoupled electron transport,doi_bioActivity
+10.1590/S0103-50532005000400031,Insecticidal,doi_bioActivity
+10.1021/np9703656,Antifungal,doi_bioActivity
+10.1021/np060254j,Anxiolytic,doi_bioActivity
+10.1021/np800612x,Antifungal,doi_bioActivity
+10.1021/np800106x,Antibacterial,doi_bioActivity
+10.1016/j.phytochem.2008.01.006,Inhibition of Glycosidase,doi_bioActivity
+10.1590/S0103-50532009000400008,Antimalarial,doi_bioActivity
+10.3390/molecules190812031,Insecticidal,doi_bioActivity
+10.1248/cpb.56.723,Inhibition of Glycosidase,doi_bioActivity
+10.1021/np1007476,Antioxidant,doi_bioActivity
+10.1016/S0031-9422(01)00431-9,Antifungal,doi_bioActivity
+10.1002/cbdv.200590016,Antioxidant,doi_bioActivity
+10.1021/jf063451x,Antioxidant,doi_bioActivity
+10.1155/2013/835081,Antifungal,doi_bioActivity
+10.1590/S0100-40422002000300002,Cytotoxic,doi_bioActivity
+10.1590/S0102-695X2008000200010,Antibacterial,doi_bioActivity
+10.1002/ptr.1249,Antioxidant,doi_bioActivity
+10.1016/j.phytochem.2006.09.005,Cytotoxic,doi_bioActivity
+10.1016/j.phytochem.2006.09.005,Antifungal,doi_bioActivity
+10.1055/s-0028-1088323,Antitrypanosomal,doi_bioActivity
+10.1016/j.phytochem.2009.08.013,Antifungal,doi_bioActivity
+10.1590/S0100-40422012000700020,Inhibition of Acetylcholinesterase,doi_bioActivity
+10.1590/S0100-40422004000200005,Cytotoxic,doi_bioActivity
+10.1016/S0031-9422(99)00132-6,Cytotoxic,doi_bioActivity
+10.1016/S0031-9422(99)00132-6,Antifungal,doi_bioActivity
+10.1016/S0031-9422(99)00132-6,Anticancer,doi_bioActivity
+10.1016/j.phytochem.2008.01.006,Inhibition of Myeloperoxodase,doi_bioActivity
+10.1016/j.phytochem.2008.01.006,Antioxidant,doi_bioActivity
+10.1590/S0100-40421998000600005,Antifungal,doi_bioActivity
+10.1590/S0103-50532005000800025,Inhibition of Acetylcholinesterase,doi_bioActivity
+10.1590/S0103-50532005000800025,Antifungal,doi_bioActivity
+10.1016/j.biortech.2010.01.041,Antiviral,doi_bioActivity
+10.1016/j.biortech.2010.01.041,Inhibition of Protease,doi_bioActivity
+10.1590/S0100-40422008000400018,Inhibition of Glycosidase,doi_bioActivity
+10.1590/S0100-40422008000400018,Antifungal,doi_bioActivity
+10.1590/S0100-40422008000400018,Antioxidant,doi_bioActivity
+10.1590/S0100-40422008000400018,Inhibition of Myeloperoxodase,doi_bioActivity
+10.1021/np500453x,Anticancer,doi_bioActivity
+10.1021/np500453x,Inhibition of Cathepsin L,doi_bioActivity
+10.1021/np500453x,Inhibition of Cathepsin B,doi_bioActivity
+10.1021/np500453x,Antichagasic,doi_bioActivity
+10.1021/np500453x,Antimalarial,doi_bioActivity
+10.1016/j.tiv.2008.01.003,Cytotoxic,doi_bioActivity
+10.1016/j.tiv.2008.01.003,Anticancer,doi_bioActivity
+10.1016/j.cbi.2010.08.008,Anticancer,doi_bioActivity
+10.1016/j.cbi.2010.08.008,Cytotoxic,doi_bioActivity
+10.1590/S0103-50532002000100010,Antifungal,doi_bioActivity
+10.5935/0103-5053.19960024,Antifungal,doi_bioActivity
+10.1016/j.phytochem.2004.03.039,Antioxidant,doi_bioActivity
+10.1016/j.phytochem.2006.06.004,Antifungal,doi_bioActivity
+10.1016/j.phytochem.2006.06.004,Cytotoxic,doi_bioActivity
+10.1515/znb-2005-0715,Antifungal,doi_bioActivity
+10.1016/j.jphotobiol.2013.01.006,Inhibition of basal electron transport,doi_bioActivity
+10.1016/j.jphotobiol.2013.01.006,Inhibition of ATP synthesis,doi_bioActivity
+10.1016/j.jphotobiol.2013.01.006,Inhibition of phosphorylating electron transport,doi_bioActivity
+10.1016/S0014-5793(02)02700-X,Antitrypanosomal,doi_bioActivity
+10.1055/s-2002-36346,Antibacterial,doi_bioActivity
+10.1016/j.chroma.2009.02.009,Antimalarial,doi_bioActivity
+10.1016/j.chroma.2009.02.009,Antitrypanosomal,doi_bioActivity
+10.1016/j.chroma.2009.02.066,Antifungal,doi_bioActivity
+10.1021/np4006822,Inhibition of Acetylcholinesterase,doi_bioActivity
+10.1021/np4006822,Cytotoxic,doi_bioActivity
+10.1021/np4006822,Antileishmanial,doi_bioActivity
+10.1590/S0102-695X2010005000017,Cytotoxic,doi_bioActivity
+10.1590/S0102-695X2010005000017,Inhibition of Glycosidase,doi_bioActivity
+10.1590/S0102-695X2010005000017,Antifungal,doi_bioActivity
+10.1248/cpb.56.723,Inhibition of Myeloperoxodase,doi_bioActivity
+10.1248/cpb.56.723,Antioxidant,doi_bioActivity
+10.1016/j.jchromb.2012.07.013,Cytotoxic,doi_bioActivity
+10.1016/S0031-9422(97)00238-0,Antioxidant,doi_bioActivity
+10.1021/jf00030a035,Cytotoxic,doi_bioActivity
+10.1021/jf00030a035,Anticancer,doi_bioActivity
+10.1590/S0100-40422009000600037,Insecticidal,doi_bioActivity
+10.2174/187152010794728620,Cell growth inhbition,doi_bioActivity
+10.1002/ps.478,Insecticidal,doi_bioActivity
+10.1590/S0103-50532005000800018,Antioxidant,doi_bioActivity
